@@ -1,0 +1,13 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "cucumberautocomplete.steps": [
+    "**/steps/*.java"
+  ],
+  "cucumberautocomplete.syncfeatures": "**/features/*.feature",
+  "cucumberautocomplete.strictGherkinCompletion": false,
+  "cucumberautocomplete.strictGherkinValidation": false,
+  "cucumberautocomplete.customParameters": [],
+  "cucumberautocomplete.gherkinDefinitionPart": "@(Given|When|Then|And)\\(",
+  "cucumberautocomplete.stepRegExSymbol": "\""
+}
+
